@@ -1,0 +1,51 @@
+task_id,gold_category,gold_customer_impact,gold_priority,requires_human_review
+TICKET-001,Customer UI Issue,true,High,false
+TICKET-002,Customer UI Issue,true,Medium,true
+TICKET-003,Customer UI Issue,true,Medium,false
+TICKET-004,Customer UI Issue,true,High,false
+TICKET-005,Customer UI Issue,true,Medium,false
+TICKET-006,Customer UI Issue,true,High,false
+TICKET-007,Customer UI Issue,true,Medium,true
+TICKET-008,Pipeline Blocked,false,High,false
+TICKET-009,Pipeline Blocked,false,High,true
+TICKET-010,Pipeline Blocked,false,Medium,false
+TICKET-011,Pipeline Blocked,false,High,true
+TICKET-012,Pipeline Blocked,false,Medium,false
+TICKET-013,Pipeline Blocked,false,Low,false
+TICKET-014,Data / Metrics Issue,false,Medium,false
+TICKET-015,Data / Metrics Issue,true,High,false
+TICKET-016,Data / Metrics Issue,false,Medium,false
+TICKET-017,Data / Metrics Issue,true,High,true
+TICKET-018,Data / Metrics Issue,false,Medium,false
+TICKET-019,Data / Metrics Issue,false,Medium,true
+TICKET-020,Performance Issue,true,High,false
+TICKET-021,Performance Issue,true,High,false
+TICKET-022,Performance Issue,false,Medium,false
+TICKET-023,Performance Issue,true,High,false
+TICKET-024,Performance Issue,true,Medium,true
+TICKET-025,Performance Issue,false,Medium,false
+TICKET-026,Dependency Failure,false,Medium,false
+TICKET-027,Dependency Failure,false,Medium,false
+TICKET-028,Dependency Failure,false,Medium,false
+TICKET-029,Dependency Failure,false,Medium,false
+TICKET-030,Dependency Failure,false,Critical,true
+TICKET-031,Dependency Failure,false,Low,false
+TICKET-032,Deployment Issue,true,High,false
+TICKET-033,Deployment Issue,false,Critical,true
+TICKET-034,Deployment Issue,true,Critical,true
+TICKET-035,Deployment Issue,false,Medium,false
+TICKET-036,Deployment Issue,false,Medium,true
+TICKET-037,Deployment Issue,false,Low,false
+TICKET-038,Auth / Access Issue,true,Critical,false
+TICKET-039,Auth / Access Issue,true,High,false
+TICKET-040,Auth / Access Issue,true,High,false
+TICKET-041,Auth / Access Issue,true,Medium,false
+TICKET-042,Auth / Access Issue,true,High,true
+TICKET-043,Auth / Access Issue,false,Critical,true
+TICKET-044,Auth / Access Issue,false,Critical,true
+TICKET-045,Other,false,Low,false
+TICKET-046,Other,false,Low,false
+TICKET-047,Other,false,Low,false
+TICKET-048,Other,false,Low,false
+TICKET-049,Other,false,Low,false
+TICKET-050,Other,false,Low,false

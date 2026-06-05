@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest_cache_local/
+pytest-cache-files*/
+.tmp/
+.test_runs/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+results/run_*/
+!results/.gitkeep

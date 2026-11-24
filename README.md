@@ -1,4 +1,8 @@
-# ContextBench
+# ContextBench — LLM Workflow Automation Evaluation
+
+**Research record:** *ContextBench: Evaluating Context Engineering Strategies for Reliable LLM Workflow Automation*  
+**DOI:** https://doi.org/10.5281/zenodo.20823546
+
 
 ContextBench is an open-source benchmark framework for evaluating how context strategies affect LLM workflow reliability. v0.1 focuses on software ticket triage and compares the same task under prompt-only, RAG-only, steering-document-only, memory-file-only, and combined-context setups.
 

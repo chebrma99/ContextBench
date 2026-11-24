@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use ContextBench in your research, please cite the associated Zenodo record."
+title: "ContextBench: Evaluating Context Engineering Strategies for Reliable LLM Workflow Automation"
+type: software
+authors:
+  - family-names: Chebrolu
+    given-names: Manoja
+date-released: 2026-06-24
+doi: 10.5281/zenodo.20823546
+url: "https://doi.org/10.5281/zenodo.20823546"
+repository-code: "https://github.com/chebrma99/ContextBench"

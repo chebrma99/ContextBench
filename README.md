@@ -196,3 +196,27 @@ Provider outputs must be JSON only:
   "evidence_ids": ["ticket_taxonomy.md", "customer_impact_guidelines.md"]
 }
 ```
+
+
+## Citation
+
+If you use ContextBench or build on its benchmark design in academic work, please cite the associated research record:
+
+> Manoja Chebrolu. *ContextBench: Evaluating Context Engineering Strategies for Reliable LLM Workflow Automation*. Zenodo, 2026. https://doi.org/10.5281/zenodo.20823546
+
+BibTeX:
+
+```bibtex
+@misc{chebrolu2026contextbench,
+  author       = {Chebrolu, Manoja},
+  title        = {ContextBench: Evaluating Context Engineering Strategies for Reliable LLM Workflow Automation},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20823546},
+  url          = {https://doi.org/10.5281/zenodo.20823546}
+}
+```
+
+Research site: https://chebrma99.github.io/
+
+Google Scholar: https://scholar.google.com/citations?user=tmlAIyMAAAAJ&hl=en
